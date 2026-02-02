@@ -10,11 +10,14 @@
     "README.md"
   ],
   "scripts": {
+    "preversion": "npm run build && npm run test",
+    "version": "node update-version.js && git add README.md",
     "build": "rimraf dist && tsup index.ts --format cjs,esm --dts",
     "prepublishOnly": "npm run build",
     "test": "vitest run",
     "test:module": "vitest run tests/$1.test.ts",
     "test:watch": "vitest watch",
+    "postversion": "npm publish",
     "docs": "typedoc"
   },
   "keywords": [
