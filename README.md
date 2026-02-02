@@ -10,4 +10,6 @@ GitHub Pages 地址：[https://ww028.github.io/allen-utils/](https://ww028.githu
 
 ```bash
 npm install allen-utils
+
+import { sumArray } from "allen-utils";
 ```
