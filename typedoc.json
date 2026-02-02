@@ -6,5 +6,6 @@
   "excludePrivate": true,
   "cleanOutputDir": true,
   "categorizeByGroup": true, // 按分组展示（核心）
-  "sort": ["source-order"]
+  "sort": ["source-order"],
+  "sourceLinkTemplate": "https://github.com/ww028/allen-utils/blob/main/{path}#L{line}"
 }

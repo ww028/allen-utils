@@ -1,2 +1,13 @@
-# allen-utils
-js 常用工具库
+# Allen Utils 工具库
+
+一个基于 TypeScript 的轻量级工具库，包含数字处理、数组处理等常用功能。
+
+## 📚 在线文档
+
+GitHub Pages 地址：[https://ww028.github.io/allen-utils/](https://ww028.github.io/allen-utils/)
+
+## 🚀 安装
+
+```bash
+npm install allen-utils
+```
