@@ -1,0 +1,10 @@
+{
+  "entryPoints": ["index.ts"],
+  "out": "docs",
+  "name": "Allen Utils 工具库文档", // 文档标题改为中文
+  "readme": "README.md",
+  "excludePrivate": true,
+  "cleanOutputDir": true,
+  "categorizeByGroup": true, // 按分组展示（核心）
+  "sort": ["source-order"]
+}
