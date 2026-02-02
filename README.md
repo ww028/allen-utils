@@ -10,7 +10,7 @@ https://github.com/ww028/allen-utils
 
 ## 📚 在线文档
 
-GitHub Pages 地址：[https://ww028.github.io/allen-utils/](https://ww028.github.io/allen-utils/)
+[https://ww028.github.io/allen-utils/](https://ww028.github.io/allen-utils/)
 
 ## 🚀 安装
 
