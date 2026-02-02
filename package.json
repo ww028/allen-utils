@@ -1,6 +1,6 @@
 {
   "name": "allen-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "使用 TypeScript 编写的 npm 包示例",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
